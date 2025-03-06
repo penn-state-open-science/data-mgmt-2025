@@ -41,13 +41,13 @@ March 27, 2025</br>
 
 The workshop is open to all researchers, especially graduate students and postdoctoral researchers, but space is limited.
 
-::: {.callout-note}
+<!-- ::: {.callout-note} -->
 
-We have hit the maximum number of pre-registrations we can take for the workshop.
+<!-- We have hit the maximum number of pre-registrations we can take for the workshop. -->
 
-If you wish to be added to the waiting list, please email Rick Gilmore <rog1+workshop@psu.edu>.
+<!-- If you wish to be added to the waiting list, please email Rick Gilmore <rog1+workshop@psu.edu>. -->
 
-:::
+<!-- ::: -->
 
 Register today by visiting <https://forms.gle/7w4rpLBuYfckpKi46>
 
