@@ -1,0 +1,41 @@
+project:
+  type: website
+  render:
+    - "*.qmd"
+  output-dir: "../docs"
+resources:
+  - "include/snd/*.m4a"
+  - "include/snd/*.wav"
+  - "include/img/*.png"
+  - "include/img/*.jpg"
+  - "include/img/*.gif"
+  - "include/img/*.mov"
+website:
+  title: "Data Management Workshop"
+  comments: 
+    hypothesis:
+      theme: clean
+  navbar:
+    left:
+      - href: index.qmd
+        text: home
+      - href: schedule.qmd
+        text: schedule
+      - href: people.qmd
+        text: people
+      # - href: resources.qmd
+      #   text: more
+      # - href: data.qmd
+      #   text: data
+  repo-url: https://github.com/penn-state-open-science/data-mgmt-2025
+  repo-actions: [edit, issue]
+  repo-subdir: src
+format:
+  html:
+    theme: default
+    css: include/css/styles.css
+    csl: include/bib/apa.csl
+    bibliography: [include/bib/psu-repro.bib]
+    citations-hover: true
+    footnotes-hover: true
+editor: source

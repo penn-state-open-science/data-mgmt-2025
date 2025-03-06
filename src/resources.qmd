@@ -1,0 +1,90 @@
+---
+title: ""
+---
+
+## About
+
+This page has links and images that support the material presented in the workshop.
+
+## Information sources
+
+Here are links to some of the sources mentioned during the workshop presentations.
+
+### Good enough data management and project management practices (Alaina Pearce)
+
+- Talk slides ([PDF](pdf/2024_GoodEnoughDataManagementWorkshop.pdf)).
+
+- [The Turing Way](https://the-turing-way.netlify.app/index.html) handbook to reproducible, ethical and collaborative data science.
+- Goodman, A., Pepe, A., Blocker, A. W., Borgman, C. L., Cranmer, K., Crosas, M., Di Stefano, R., Gil, Y., Groth, P., Hedstrom, M., Hogg, D. W., Kashyap, V., Mahabal, A., Siemiginowska, A., & Slavkovic, A. (2014). Ten simple rules for the care and feeding of scientific data. *PLoS Computational Biology*, *10*(4), e1003542. <https://doi.org/10.1371/journal.pcbi.1003542>.
+- Version control
+  - [GitHub](https://github.com), a web service for version control using git.
+  - [Subversion](https://subversion.apache.org), a web service for version control using git
+- Penn State Open Science [GitHub repo](https://github.com/penn-state-open-science)
+  - 2023 Bootcamp [site](https://penn-state-open-science.github.io/bootcamp-2023/), [repo](https://github.com/penn-state-open-science//bootcamp-2023/)
+  - 2022-23 interest and knowledge survey [site](https://penn-state-open-science.github.io/survey-fall-2022), [repo](https://github.com/penn-state-open-science/survey-fall-2022)
+- Wickham, H. (2014). Tidy Data, *Journal of Statistical Software*, <https://doi.org/10.18637/jss.v059.i10>.
+
+### Data management policies (Briana Wham and Ana Enriquez)
+
+- Talk slides ([pptx](pptx/wham-enriquez-policies-for-data-mgmt-2024-03-27.pptx))
+
+- The (Dr. Alondra) Nelson [memo](https://www.whitehouse.gov/wp-content/uploads/2022/08/08-2022-OSTP-Public-access-Memo.pdf) on "Ensuring Free, Immediate, and Equitable Access to Federally Funded Research"
+- [NIH Data Management and Sharing Policy](https://sharing.nih.gov/data-management-and-sharing-policy)
+- Data Management Plan Tool [(DMPTool)](https://dmptool.org)
+- [Penn State Data Storage Finder](https://datastoragefinder.psu.edu)
+- (Draft) [Penn State Research Data Management Policy](https://www.research.psu.edu/research-data-management-policy)
+- [Penn State Policy IP01](https://policy.psu.edu/policies/ip01#:~:text=The%20University%20is%20granted%20the,scope%20of%20the%20University%20employment) "Ownership and Management of Intellectual Property (Formerly RA11 - Patents and Copyrights [Intellectual Property])"
+
+### Case study
+
+- Sample "untidy" [data](xlsx/data_mgmt_workshop_data.xlsx)
+
+![Comments on untidy data sample](include/img/sample-data-file-comments-1-of-2.jpeg)
+
+![Comments on untidy data sample](include/img/sample-data-file-comments-2-of-2.jpeg)
+
+- Problem with MS Excel's automatic [conversion names for genes](https://www.theverge.com/2020/8/6/21355674/human-genes-rename-microsoft-excel-misreading-dates)
+
+### Discussion
+
+- [Catch-22](https://en.wikipedia.org/wiki/Catch-22) and Joseph Heller's [career at Penn State](https://cals.la.psu.edu/news/marathon-reading-of-catch-22/)
+
+## Consulting OpenAI
+
+Just for fun, we thought we would ask [OpenAI](https://openai.com) for some insights about data management practices.
+
+The following code sketch is not run and will not work as-is, but is used as a sketch for how to do this sort of thing.
+
+```{r}
+#| label: open-ai-image
+#| eval: FALSE
+
+ai_img <- openai::create_image(prompt = "good enough data management practices", size="512x512", response_format = "url")
+```
+
+![OpenAI response to "good enough data management practices"](include/img/open-ai-good-enough-data-mgmt.png)
+
+Similarly, the response below was generated from the prompt "suggestions about good enough data management practices".
+
+```{r}
+#| label: open-ai-text
+#| eval: FALSE
+
+create_chat_completion(model = "gpt-3.5-turbo",
+                       messages = list(
+                         list("role" = "user",
+                              "content" = "suggestions about good enough data management practices")
+                       ))
+```
+
+>1. Regularly backup your data to prevent data loss in case of system failure or accidental deletion.
+>2. Keep your data organized by creating folders and subfolders with clear and consistent naming conventions.
+>3. Use encryption to protect sensitive data from unauthorized access. 
+>4. Implement access controls to ensure that only authorized individuals can view or modify certain data.
+>5. Regularly review and update data security protocols to stay ahead of potential threats.
+>6. Dispose of outdated data securely and in line with data protection regulations.
+>7. Conduct regular data audits to ensure the accuracy and completeness of your data. 
+>8. Train employees on data management best practices to ensure everyone is following proper procedures.
+>9. Utilize data management software or tools to automate and streamline data processes.
+>10. Seek guidance from data management experts or consultants for additional strategies and recommendations.
+

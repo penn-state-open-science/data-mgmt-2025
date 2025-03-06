@@ -1,0 +1,100 @@
+[
+  {
+    "objectID": "schedule.html",
+    "href": "schedule.html",
+    "title": "Data Management Workshop",
+    "section": "",
+    "text": "The following schedule is current as of 2025-03-06.\nAll events will be held in the Penn State University Libraries Dewey Room.\n08:30 am Coffee 09:00 am Welcome (Rick Gilmore) 09:15 am Good enough practices for data management (Alaina Pearce) 10:00 am Interactive workshop: File naming and directory management (Alaina Pearce) 10:45 am Break 11:00 am Copyright & licensing Policies Ana Enriquez) 12:00 pm Lunch 01:00 pm Preparing data for reuse (Briana Wham) 02:00 pm Interactive workshop: Metadata (Briana Wham) 02:30 pm Wrap-up discussion"
+  },
+  {
+    "objectID": "schedule.html#wednesday-march-27-2024",
+    "href": "schedule.html#wednesday-march-27-2024",
+    "title": "Data Management Workshop",
+    "section": "",
+    "text": "The following schedule is current as of 2024-02-13.\nAll events will be held in the Penn State University Libraries Dewey Room.\n08:30 am Coffee 09:00 am Welcome (Nicole Lazar & Rick Gilmore) 09:15 am Good enough practices for data management (Alaina Pearce) 10:15 am Break 10:30 am Policies (Briana Wham & Ana Enriquez) 11:00 am Interactive workshop 12:00 pm Lunch 12:45 pm Next steps 01:30 pm End of workshop"
+  },
+  {
+    "objectID": "people.html",
+    "href": "people.html",
+    "title": "Data Management Workshop",
+    "section": "",
+    "text": "Alaina Pearce is Assistant Research Professor in the Department of Nutritional Sciences and Center for Childhood Obesity Research and is an affiliate of the Institute of Computational and Data Sciences. Dr. Pearce is a cognitive neuroscientist and her research interests center on understanding on the reciprocal association between neurocognitive functioning and pediatric obesity. Dr. Pearce’s current research aims to: 1) characterize cognitive function, neural food-cue responsivity, and eating behaviors in children at high and low familial risk for obesity prior to the development of excess adiposity; 2) identify neurocognitive processes and eating behaviors that confer either risk or resiliency to pediatric obesity; and 3) characterize child eating behaviors through meal microstructure and computational modeling.\nazp271@psu.edu\n\n\n\n\n\n\n\n\n\nBriana Ezray Wham is Research Data Librarian – STEM at the Penn State University Libraries. Dr. Wham conducts data management plan reviews and provides guidance, training, and consulting services for data management planning, active data management, reproducible research workflows using R, data visualization, data publication, as well as ORCiD integration and utility. She also works as one of the data curators for ScholarSphere, Penn State’s institutional repository. Prior to joining Penn State University Libraries, Briana received her Ph.D. in Entomology from Penn State, where she studied aspects of ecology, evolution, and conservation of bee communities. Briana’s interests include open science, museum collection digitization, and bee conservation.\nbde125@psu.edu\n\n\n\n\n\n\n\n\n\nAna Enriquez is the Copyright Officer and Head of the Office of Scholarly Communications and Copyright at the Penn State University Libraries. A copyright lawyer by training, she teaches the university community about copyright and publishing, assists researchers in making their work freely available to the public, and supports the Libraries’ negotiations with publishers. Her research focuses on copyright, teaching copyright, and leveraging library expertise to advance the open access movement.\naee32@psu.edu"
+  },
+  {
+    "objectID": "people.html#faculty",
+    "href": "people.html#faculty",
+    "title": "Data Management Workshop",
+    "section": "",
+    "text": "Alaina Pearce is Assistant Research Professor in the Department of Nutritional Sciences and Center for Childhood Obesity Research and is an affiliate of the Institute of Computational and Data Sciences. Dr. Pearce is a cognitive neuroscientist and her research interests center on understanding on the reciprocal association between neurocognitive functioning and pediatric obesity. Dr. Pearce’s current research aims to: 1) characterize cognitive function, neural food-cue responsivity, and eating behaviors in children at high and low familial risk for obesity prior to the development of excess adiposity; 2) identify neurocognitive processes and eating behaviors that confer either risk or resiliency to pediatric obesity; and 3) characterize child eating behaviors through meal microstructure and computational modeling.\nazp271@psu.edu\n\n\n\n\n\n\n\n\n\nBriana Ezray Wham is Research Data Librarian – STEM at the Penn State University Libraries. Dr. Wham conducts data management plan reviews and provides guidance, training, and consulting services for data management planning, active data management, reproducible research workflows using R, data visualization, data publication, as well as ORCiD integration and utility. She also works as one of the data curators for ScholarSphere, Penn State’s institutional repository. Prior to joining Penn State University Libraries, Briana received her Ph.D. in Entomology from Penn State, where she studied aspects of ecology, evolution, and conservation of bee communities. Briana’s interests include open science, museum collection digitization, and bee conservation.\nbde125@psu.edu\n\n\n\n\n\n\n\n\n\nAna Enriquez is the Copyright Officer and Head of the Office of Scholarly Communications and Copyright at the Penn State University Libraries. A copyright lawyer by training, she teaches the university community about copyright and publishing, assists researchers in making their work freely available to the public, and supports the Libraries’ negotiations with publishers. Her research focuses on copyright, teaching copyright, and leveraging library expertise to advance the open access movement.\naee32@psu.edu"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Better data management practices for research",
+    "section": "",
+    "text": "https://teacherhead.com/2017/02/27/reinventing-the-wheel-again/"
+  },
+  {
+    "objectID": "index.html#about-the-workshop",
+    "href": "index.html#about-the-workshop",
+    "title": "Better data management practices for research",
+    "section": "About the workshop",
+    "text": "About the workshop\nEffective data management supports research integrity, reproducibility, and the long-term value of data. This workshop will introduce practical approaches for implementing better data practices across the research lifecycle — from organizing and describing data during active projects to preparing data for sharing and reuse. Topics will include directory structures and file naming conventions, copyright considerations for research data and code, and documentation formats such as data dictionaries, metadata standards, and README files. Through hands-on activities, participants will apply these practices to common research scenarios.\nThis workshop will provide a set of practices that can make data management and data sharing easier taught by local experts who have helped many researchers with related challenges.\nAlaina Pearce, Briana Wham, and Ana Enriquez will lead the workshop.\nMore details about the schedule and faculty can be found by following the links."
+  },
+  {
+    "objectID": "index.html#location-and-time",
+    "href": "index.html#location-and-time",
+    "title": "Better data management practices for research",
+    "section": "Location and time",
+    "text": "Location and time\n\n\n\n\n\nDewey Room, University Libraries\n\n\n\n\n\nDewey Room Penn State University Libraries University Park, PA\nMarch 27, 2025 8:30 am - 3:00 pm"
+  },
+  {
+    "objectID": "index.html#register",
+    "href": "index.html#register",
+    "title": "Better data management practices for research",
+    "section": "Register!",
+    "text": "Register!\nThe workshop is open to all researchers, especially graduate students and postdoctoral researchers, but space is limited.\n\n\n\n\n\n\nNote\n\n\n\nWe have hit the maximum number of pre-registrations we can take for the workshop.\nIf you wish to be added to the waiting list, please email Rick Gilmore rog1+workshop@psu.edu.\n\n\nRegister today by visiting https://forms.gle/7w4rpLBuYfckpKi46\nOr via the embedded form below:\n\nLoading…"
+  },
+  {
+    "objectID": "index.html#support",
+    "href": "index.html#support",
+    "title": "Better data management practices for research",
+    "section": "Support",
+    "text": "Support\n\n\nPenn State Child Study Center (CSC)\n\nInstitute for Computational and Data Sciences (ICDS)"
+  },
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Data Management Workshop",
+    "section": "",
+    "text": "This page has links and images that support the material presented in the workshop."
+  },
+  {
+    "objectID": "resources.html#about",
+    "href": "resources.html#about",
+    "title": "Data Management Workshop",
+    "section": "",
+    "text": "This page has links and images that support the material presented in the workshop."
+  },
+  {
+    "objectID": "resources.html#information-sources",
+    "href": "resources.html#information-sources",
+    "title": "Data Management Workshop",
+    "section": "Information sources",
+    "text": "Information sources\nHere are links to some of the sources mentioned during the workshop presentations.\n\nGood enough data management and project management practices (Alaina Pearce)\n\nTalk slides (PDF).\nThe Turing Way handbook to reproducible, ethical and collaborative data science.\nGoodman, A., Pepe, A., Blocker, A. W., Borgman, C. L., Cranmer, K., Crosas, M., Di Stefano, R., Gil, Y., Groth, P., Hedstrom, M., Hogg, D. W., Kashyap, V., Mahabal, A., Siemiginowska, A., & Slavkovic, A. (2014). Ten simple rules for the care and feeding of scientific data. PLoS Computational Biology, 10(4), e1003542. https://doi.org/10.1371/journal.pcbi.1003542.\nVersion control\n\nGitHub, a web service for version control using git.\nSubversion, a web service for version control using git\n\nPenn State Open Science GitHub repo\n\n2023 Bootcamp site, repo\n2022-23 interest and knowledge survey site, repo\n\nWickham, H. (2014). Tidy Data, Journal of Statistical Software, https://doi.org/10.18637/jss.v059.i10.\n\n\n\nData management policies (Briana Wham and Ana Enriquez)\n\nTalk slides (pptx)\nThe (Dr. Alondra) Nelson memo on “Ensuring Free, Immediate, and Equitable Access to Federally Funded Research”\nNIH Data Management and Sharing Policy\nData Management Plan Tool (DMPTool)\nPenn State Data Storage Finder\n(Draft) Penn State Research Data Management Policy\nPenn State Policy IP01 “Ownership and Management of Intellectual Property (Formerly RA11 - Patents and Copyrights [Intellectual Property])”\n\n\n\nCase study\n\nSample “untidy” data\n\n\n\n\nComments on untidy data sample\n\n\n\n\n\nComments on untidy data sample\n\n\n\nProblem with MS Excel’s automatic conversion names for genes\n\n\n\nDiscussion\n\nCatch-22 and Joseph Heller’s career at Penn State"
+  },
+  {
+    "objectID": "resources.html#consulting-openai",
+    "href": "resources.html#consulting-openai",
+    "title": "Data Management Workshop",
+    "section": "Consulting OpenAI",
+    "text": "Consulting OpenAI\nJust for fun, we thought we would ask OpenAI for some insights about data management practices.\nThe following code sketch is not run and will not work as-is, but is used as a sketch for how to do this sort of thing.\n\nai_img &lt;- openai::create_image(prompt = \"good enough data management practices\", size=\"512x512\", response_format = \"url\")\n\n\n\n\nOpenAI response to “good enough data management practices”\n\n\nSimilarly, the response below was generated from the prompt “suggestions about good enough data management practices”.\n\ncreate_chat_completion(model = \"gpt-3.5-turbo\",\n                       messages = list(\n                         list(\"role\" = \"user\",\n                              \"content\" = \"suggestions about good enough data management practices\")\n                       ))\n\n\n\nRegularly backup your data to prevent data loss in case of system failure or accidental deletion.\nKeep your data organized by creating folders and subfolders with clear and consistent naming conventions.\nUse encryption to protect sensitive data from unauthorized access.\nImplement access controls to ensure that only authorized individuals can view or modify certain data.\nRegularly review and update data security protocols to stay ahead of potential threats.\nDispose of outdated data securely and in line with data protection regulations.\nConduct regular data audits to ensure the accuracy and completeness of your data.\nTrain employees on data management best practices to ensure everyone is following proper procedures.\nUtilize data management software or tools to automate and streamline data processes.\nSeek guidance from data management experts or consultants for additional strategies and recommendations."
+  },
+  {
+    "objectID": "schedule.html#wednesday-march-27-2025",
+    "href": "schedule.html#wednesday-march-27-2025",
+    "title": "Data Management Workshop",
+    "section": "",
+    "text": "The following schedule is current as of 2025-03-06.\nAll events will be held in the Penn State University Libraries Dewey Room.\n08:30 am Coffee 09:00 am Welcome (Rick Gilmore) 09:15 am Good enough practices for data management (Alaina Pearce) 10:00 am Interactive workshop: File naming and directory management (Alaina Pearce) 10:45 am Break 11:00 am Copyright & licensing Policies Ana Enriquez) 12:00 pm Lunch 01:00 pm Preparing data for reuse (Briana Wham) 02:00 pm Interactive workshop: Metadata (Briana Wham) 02:30 pm Wrap-up discussion"
+  }
+]

@@ -1,0 +1,69 @@
+---
+title: "Better data management practices for research"
+subtitle: "A workshop"
+format: html
+---
+
+![https://teacherhead.com/2017/02/27/reinventing-the-wheel-again/](https://headguruteacher.files.wordpress.com/2017/02/9464b325-d2f4-4604-8258-82093bf93af6.jpg)
+
+## About the workshop
+
+Effective data management supports research integrity, reproducibility, and the long-term value of data. This workshop will introduce practical approaches for implementing better data practices across the research lifecycle — from organizing and describing data during active projects to preparing data for sharing and reuse. Topics will include directory structures and file naming conventions, copyright considerations for research data and code, and documentation formats such as data dictionaries, metadata standards, and README files. Through hands-on activities, participants will apply these practices to common research scenarios. 
+
+This workshop will provide a set of practices that can make data management and data sharing easier taught by local experts who have helped many researchers with related challenges.
+
+[Alaina Pearce](people.qmd#alaina-pearce), [Briana Wham](people.qmd#briana-wham), and [Ana Enriquez](people.qmd#ana-enriquez) will lead the workshop.
+
+More details about the [schedule](schedule.qmd) and [faculty](people.qmd) can be found by following the links.
+
+<!-- Copies of the slides and some other supporting information are [here](resources.qmd), and we also have [data](data.qmd) about the participant evaluations and some of their characteristics. -->
+
+## Location and time
+
+:::: {.columns}
+::: {.column width="40%"}
+![Dewey Room, University Libraries](https://sc-api.psu.edu/s3/files/styles/4_3_1500w/public/DSC_6681%20for%20PSNews%20Dewey%20room%20naming.jpg?h=6e526c05&itok=fTahAKyt)
+:::
+::: {.column width="10%"}
+:::
+::: {.column width="50%"}
+Dewey Room</br>
+Penn State University Libraries</br>
+University Park, PA
+
+March 27, 2025</br>
+8:30 am - 3:00 pm
+:::
+::::
+
+
+## Register!
+
+The workshop is open to all researchers, especially graduate students and postdoctoral researchers, but space is limited.
+
+::: {.callout-note}
+
+We have hit the maximum number of pre-registrations we can take for the workshop.
+
+If you wish to be added to the waiting list, please email Rick Gilmore <rog1+workshop@psu.edu>.
+
+:::
+
+Register today by visiting <https://forms.gle/7w4rpLBuYfckpKi46>
+
+Or via the embedded form below:
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeDa4EH0psoJeH3Y1HAxj8RCa6AwZvOlL-3bONHO4pArGnRYw/viewform?embedded=true" width="640" height="1794" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
+<!-- See updated information about the registrants [here](resources.qmd#fig-registration-time-series) and [here](resources.qmd#fig-registration-by-dept). -->
+
+## Support
+
+:::: {.columns}
+::: {.column width="50%"}
+Penn State Child Study Center ([CSC](https://csc.la.psu.edu))
+:::
+::: {.column width="50%"}
+Institute for Computational and Data Sciences ([ICDS](https://www.icds.psu.edu))
+:::
+::::
