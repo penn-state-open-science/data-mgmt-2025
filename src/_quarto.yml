@@ -39,3 +39,6 @@ format:
     citations-hover: true
     footnotes-hover: true
 editor: source
+knitr:
+  opts_chunk:
+    fig.path: include/fig/  

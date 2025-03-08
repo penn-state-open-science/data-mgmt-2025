@@ -57,6 +57,19 @@ Or via the embedded form below:
 
 <!-- See updated information about the registrants [here](resources.qmd#fig-registration-time-series) and [here](resources.qmd#fig-registration-by-dept). -->
 
+### Registration data
+
+See [this page](data.qmd) for details about how these figures were generated.
+
+:::: {.columns}
+::: {.column width=50%}
+![](include/fig/fig-registration-time-series-1.png)
+:::
+::: {.column width=50%}
+![](include/fig/fig-registrations-college-position-1.png)
+:::
+::::
+
 ## Support
 
 :::: {.columns}

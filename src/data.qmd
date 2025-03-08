@@ -80,6 +80,7 @@ We download the data as a CSV (if `params$update_data == TRUE`).
 #| echo: true
 
 update_figs = TRUE
+update_date_time = Sys.Date()
 
 # Create include/csv if it doesn't exist
 csv_path <- file.path(here::here(), "src", "include", "csv")
@@ -100,8 +101,8 @@ if (params$update_data) {
     readr::write_csv(x, csv_full_fn)
   }
   
-  new_fn <- csv_full_fn
-  file.rename(new_fn, stringr::str_replace(new_fn, "data-", "_data-"))
+  # new_fn <- csv_full_fn
+  # file.rename(new_fn, stringr::str_replace(new_fn, "data-", "_data-"))
               
   googledrive::drive_download(
     params$google_fn,
@@ -289,15 +290,30 @@ registrations_clean$unit[college_na]
 
 ### Time series
 
-```{r fig-registration-time-series, fig.cap="Time series of registrations from 2014-02-13 to present", eval=update_figs}
+```{r  , eval=update_figs}
+#| label: fig-registration-time-series
+#| fig-cap: "Time series of registrations."
+#| eval: update_figs
 registrations_clean |>
   dplyr::arrange(timestamp) |>
   dplyr::mutate(resp_index = seq_along(timestamp)) |>
   ggplot() +
-  aes(x = timestamp, y = resp_index) +
+  aes(x = timestamp, y = resp_index, color = position) +
   geom_point() +
-  # geom_line(group = 1) +
   theme(axis.text.x = element_text(angle = 90)) +
   labs(x = NULL, y = 'n') +
+  theme(legend.position = "bottom", legend.title = element_blank())
+```
+
+### By college and position
+
+```{r}
+#| label: fig-registrations-college-position
+#| fig-cap: "Workshop registrations by college and position."
+registrations_clean |>
+  dplyr::count(position, college, sort = TRUE) |>
+  ggplot() +
+  aes(college, n, fill = position) +
+  geom_col() +
   theme(legend.position = "bottom", legend.title = element_blank())
 ```
