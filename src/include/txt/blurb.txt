@@ -1,0 +1,22 @@
+Better data practices for research: A Workshop
+ 
+Wednesday, March 27, 2025
+8:30 am - 3:00 pm (coffee and lunch provided)
+Dewey Room, Pattee Library
+ 
+Effective data management supports research integrity, reproducibility, and the long-term value of data. This workshop will introduce practical approaches for implementing better data practices across the research lifecycle — from organizing and describing data during active projects to preparing data for sharing and reuse. Topics will include directory structures and file naming conventions, copyright considerations for research data and code, and documentation formats such as data dictionaries, metadata standards, and README files. Through hands-on activities, participants will apply these practices to common research scenarios.
+ 
+The workshop is targeted at early career researchers, but is open to researchers at every career stage. However, space is limited. So, please register today at: https://forms.gle/7w4rpLBuYfckpKi46
+ 
+You may learn more about the workshop, schedule, and its organizers by visiting this site: https://penn-state-open-science.github.io/data-mgmt-2025/
+
+Sponsored by the Child Study Center and the Institute for Computational and Data Sciences
+
+The Open Scholarship Initiative
+ 
+Rick Gilmore
+Nicole Lazar
+Briana Wham
+Ana Enriquez
+Alaina Pearce
+Frank Hillary
