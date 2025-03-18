@@ -179,13 +179,15 @@ registrations_clean <- registrations |>
       `Kinesiology & Developmental Psychology` = "Kinesiology",
       `Educational psychology` = "Educational Psychology",
       `Clinical Psychology` = "Psychology",
+      `Developmental Psychology` = "Psychology",
       `Communication Sciences and Disorders` = "Communication Sciences & Disorders",
       `Center for Healthy Aging; Department of Psychology` = "Center for Healthy Aging",
       `MCIBS` = "Molecular, Cellular, & Integrative Biosciences",
       `Department of Chemical Engineering` = "Chemical Engineering",
       `Biobehavioral health` = "Biobehavioral Health",
       `EE` = "Electrical Engineering",
-      `Agricultural and biological engineering` = "Agricultural & Biological Engineering"
+      `Agricultural and biological engineering` = "Agricultural & Biological Engineering",
+      `Nutrition: Kathleen Keller` = "Nutritional Sciences"
       )
   ) |>
   # Drop no attends
@@ -203,7 +205,8 @@ registrations_clean <- registrations |>
       "Astronomy & Astrophysics" ~ "ECoS",
       "Eberly" ~ "ECos",
       "Eberly" ~ "ECos",
-      "Eberly College of Science" ~ "ECos",
+      "Eberly College of Science" ~ "ECoS",
+      "ECos" ~ "ECoS",
       "Poli Sci" ~ "CLA",
       "Prevention research center" ~ "HHD",
       "Center for Healthy Aging (HHD)" ~ "HHD",
@@ -224,6 +227,7 @@ registrations_clean <- registrations |>
       "Center for Language Science" ~ "CLA",
       "Foreign Languages" ~ "CLA",
       "Languages and Literature" ~ "CLA",
+      "Developmental Psychology" ~ "CLA",
       "IST" ~ "IST",
       "Chemical Engineering" ~ "Eng",
       "Civil & Environmental Engineering" ~ "Eng",
