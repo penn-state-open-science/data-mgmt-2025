@@ -315,6 +315,7 @@ registrations_clean |>
 #| label: fig-registrations-college-position
 #| fig-cap: "Workshop registrations by college and position."
 registrations_clean |>
+  dplyr::filter(!is.na(college)) |>
   dplyr::count(position, college, sort = TRUE) |>
   ggplot() +
   aes(college, n, fill = position) +
