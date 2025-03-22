@@ -163,6 +163,7 @@ registrations_clean <- registrations |>
       `Earth and Environmental Systems Institute` = "Earth & Environmental Systems Institute",
       `Civil and Environmental Engineering` = "Civil & Environmental Engineering",
       `Civil and Environmental Eng` = "Civil & Environmental Engineering",
+      `chemical engineering` = "Chemical Engineering",
       `FOOD SCIENCE` = "Food Science",
       `Earth and Mineral Sciences, Energy Institute` = "Energy Institute",
       `Center for Healthy Aging / HHD` = "Center for Healthy Aging",
@@ -322,5 +323,6 @@ registrations_clean |>
   ggplot() +
   aes(college, n, fill = position) +
   geom_col() +
-  theme(legend.position = "bottom", legend.title = element_blank())
+  theme(legend.position = "bottom", legend.title = element_blank()) +
+  scale_y_continuous(breaks = c(5,10,15))
 ```

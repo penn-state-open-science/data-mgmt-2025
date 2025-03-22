@@ -3,14 +3,14 @@ title: ""
 format: html
 ---
 
-## Wednesday, March 27, 2025
+## Thursday, March 27, 2025
 
-The following schedule is current as of 2025-03-06.
+The following schedule is current as of 2025-03-22.
 
 All events will be held in the Penn State University Libraries Dewey Room.
 
 08:30 am Coffee</br>
-09:00 am Welcome (Rick Gilmore)</br>
+09:00 am Welcome</br>
 09:15 am Good enough practices for data management ([Alaina Pearce](people.qmd#alaina-pearce))</br>
 10:00 am Interactive workshop: File naming and directory management ([Alaina Pearce](people.qmd#alaina-pearce))</br>
 10:45 am Break</br>
