@@ -14,7 +14,7 @@ All events will be held in the Penn State University Libraries Dewey Room.
 09:15 am Good enough practices for data management ([Alaina Pearce](people.qmd#alaina-pearce))</br>
 10:00 am Interactive workshop: File naming and directory management ([Alaina Pearce](people.qmd#alaina-pearce))</br>
 10:45 am Break</br>
-11:00 am Copyright & licensing Policies [Ana Enriquez](people.qmd#ana-enriquez))</br>
+11:00 am Copyright & licensing for research data [Ana Enriquez](people.qmd#ana-enriquez)) | [slides](include/pdf/Copyright_and_Licensing_for_Research_Data.pdf)</br>
 12:00 pm Lunch</br>
 01:00 pm Preparing data for reuse ([Briana Wham](people.qmd#briana-wham))</br>
 02:00 pm Interactive workshop: Metadata ([Briana Wham](people.qmd#briana-wham))</br>
