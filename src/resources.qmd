@@ -6,13 +6,19 @@ title: ""
 
 This page has links and images that support the material presented in the workshop.
 
-<!-- ## Information sources -->
+## Information sources
 
-<!-- Here are links to some of the sources mentioned during the workshop presentations. -->
+Here are links to some of the sources mentioned during the workshop presentations.
 
-<!-- <!-- ### Good enough data management and project management practices (Alaina Pearce) -->
+### Good enough data management and project management practices
 
-<!-- - Talk slides ([PDF](pdf/2024_GoodEnoughDataManagementWorkshop.pdf)). -->
+(Alaina Pearce)
+
+- Talk slides ([PDF]()).
+
+### Interactive workshop: File naming and directory management
+
+- [Sample dataset]()
 
 <!-- - [The Turing Way](https://the-turing-way.netlify.app/index.html) handbook to reproducible, ethical and collaborative data science. -->
 <!-- - Goodman, A., Pepe, A., Blocker, A. W., Borgman, C. L., Cranmer, K., Crosas, M., Di Stefano, R., Gil, Y., Groth, P., Hedstrom, M., Hogg, D. W., Kashyap, V., Mahabal, A., Siemiginowska, A., & Slavkovic, A. (2014). Ten simple rules for the care and feeding of scientific data. *PLoS Computational Biology*, *10*(4), e1003542. <https://doi.org/10.1371/journal.pcbi.1003542>. -->
@@ -24,10 +30,9 @@ This page has links and images that support the material presented in the worksh
 <!--   - 2022-23 interest and knowledge survey [site](https://penn-state-open-science.github.io/survey-fall-2022), [repo](https://github.com/penn-state-open-science/survey-fall-2022) -->
 <!-- - Wickham, H. (2014). Tidy Data, *Journal of Statistical Software*, <https://doi.org/10.18637/jss.v059.i10>. -->
 
+### Copyright and licensing for research Data
 
-### Copyright and licensing for research Data (Ana Enriquez)
-
-- Talk slides ([pdf](include/pdf/Copyright_and_Licensing_for_Research_Data.pdf))
+- Talk slides ([PDF](include/pdf/Copyright_and_Licensing_for_Research_Data.pdf))
 
 <!-- - The (Dr. Alondra) Nelson [memo](https://www.whitehouse.gov/wp-content/uploads/2022/08/08-2022-OSTP-Public-access-Memo.pdf) on "Ensuring Free, Immediate, and Equitable Access to Federally Funded Research" -->
 <!-- - [NIH Data Management and Sharing Policy](https://sharing.nih.gov/data-management-and-sharing-policy) -->
