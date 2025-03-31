@@ -10,15 +10,15 @@ This page has links and images that support the material presented in the worksh
 
 Here are links to some of the sources mentioned during the workshop presentations.
 
-### Good enough data management and project management practices
+### Better data practices
 
 (Alaina Pearce)
 
-- Talk slides ([PDF]()).
+- Talk slides ([PDF](include/pdf/2025_BetterDataPractices-pearce.pdf)).
 
-### Interactive workshop: File naming and directory management
+<!-- ### Interactive workshop: File naming and directory management -->
 
-- [Sample dataset]()
+<!-- - [Sample dataset]() -->
 
 <!-- - [The Turing Way](https://the-turing-way.netlify.app/index.html) handbook to reproducible, ethical and collaborative data science. -->
 <!-- - Goodman, A., Pepe, A., Blocker, A. W., Borgman, C. L., Cranmer, K., Crosas, M., Di Stefano, R., Gil, Y., Groth, P., Hedstrom, M., Hogg, D. W., Kashyap, V., Mahabal, A., Siemiginowska, A., & Slavkovic, A. (2014). Ten simple rules for the care and feeding of scientific data. *PLoS Computational Biology*, *10*(4), e1003542. <https://doi.org/10.1371/journal.pcbi.1003542>. -->
@@ -30,7 +30,9 @@ Here are links to some of the sources mentioned during the workshop presentation
 <!--   - 2022-23 interest and knowledge survey [site](https://penn-state-open-science.github.io/survey-fall-2022), [repo](https://github.com/penn-state-open-science/survey-fall-2022) -->
 <!-- - Wickham, H. (2014). Tidy Data, *Journal of Statistical Software*, <https://doi.org/10.18637/jss.v059.i10>. -->
 
-### Copyright and licensing for research Data
+### Copyright and licensing for research data
+
+(Ana Enriquez)
 
 - Talk slides ([PDF](include/pdf/Copyright_and_Licensing_for_Research_Data.pdf))
 
