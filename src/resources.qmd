@@ -10,7 +10,13 @@ This page has links and images that support the material presented in the worksh
 
 Here are links to some of the sources mentioned during the workshop presentations.
 
-### Better data practices
+### Handouts
+
+- File naming convention [worksheet](include/pdf/FileNamingConventionWorksheet_Generic.pdf).
+- Naming and organizing your files and folders [worksheet](include/pdf/Worksheet_fileOrg (1).pdf) (MIT Libraries).
+- Repository selection & metadata consideration [worksheet](include/pdf/Repository_Selection_Worksheet.pdf).
+
+### Better data practices 
 
 (Alaina Pearce)
 
@@ -56,6 +62,12 @@ Here are links to some of the sources mentioned during the workshop presentation
 <!-- ### Discussion -->
 
 <!-- - [Catch-22](https://en.wikipedia.org/wiki/Catch-22) and Joseph Heller's [career at Penn State](https://cals.la.psu.edu/news/marathon-reading-of-catch-22/) -->
+
+### Preparing data for reuse
+
+(Briana Wham)
+
+- Talk slides ([PDF](include/pdf/PreparingDataforReuse.pdf))
 
 ## Consulting OpenAI
 
